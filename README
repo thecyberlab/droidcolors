@@ -3,8 +3,8 @@ internal structure of the file.
 
 
 Related paper:
-Enriching Reverse Engineering through Visual Exploration of Android Binaries
-5th Program protection and Reverse Engineering Workshop (PPREW-5)
+A. Jain, H. Gonzalez, and N. Stakhanova. Enriching reverse engineering through visual exploration of Android binaries. In Proceedings of the 5th Program Protection and Reverse Engineering Workshop , 
+PPREW-5, pages 9:1-9:9, New York, NY, USA, 2015. ACM
 
 http://dx.doi.org/10.1145/2843859.2843866
 
